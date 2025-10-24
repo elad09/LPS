@@ -1,0 +1,7 @@
+table, tr, th, td, caption
+{
+  border: 2px double #000000;
+  font-family: "Courier New" Courier;
+  border-collapse: collapse;
+  padding: 1rem;
+}
